@@ -1,9 +1,6 @@
 - Hi visitor, Good Day! Greetings from @iugmali
 
-*Scrum Master has been my main role since 2018.*
-
-- Important Message for github.com/iugmali visitors:
->  My github.com repositories don't represent any real job, they were created just for learning purposes, and they are not always updated with good git pratices. [These are a few courses I’ve been enrolled with in the past 8 years.](https://www.udemy.com/user/guilherme-de-almeida/)
+*Fullstack developer has been my main role since 2018.*
 
 ## Contact me:
 
