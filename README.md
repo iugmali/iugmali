@@ -1,10 +1,10 @@
-- Hi visitor, Good Day! Greetings from @iugmali
+Hi! I'm Guilherme (@iugmali)
 
 *Fullstack developer has been my main role since 2018.*
 
 ## Contact me:
 
-Call me: +5521996796425 (mobile/Whatsapp/Telegram)
+Call me: +5521972746425 (mobile/Whatsapp/Telegram)
 
 Email me: iugmali@iugmali.com 
 
