@@ -7,8 +7,9 @@ Hi! I'm Guilherme (@iugmali)
 Call or text me: +55(21)97274-6425 (mobile/Whatsapp)
                  +55(21)99679-6425 (mobile/Telegram) 
 
-Email me: iugmali@iugmali.com 
-
+Email me: dev@iugmali.com
+[My Linkedin Profile](https://www.linkdein.com/in/iugmali)
+[My Facebook Profile](https://www.facebook.com/iugmali)
 [Book 15min Zoom Meeting](https://calendly.com/iugmali/15min-zoom-call)
 
 <!---
