@@ -4,7 +4,8 @@ Hi! I'm Guilherme (@iugmali)
 
 ## Contact me:
 
-Call me: +5521972746425 (mobile/Whatsapp/Telegram)
+Call or text me: +55(21)97274-6425 (mobile/Whatsapp)
+                 +55(21)99679-6425 (mobile/Telegram) 
 
 Email me: iugmali@iugmali.com 
 
