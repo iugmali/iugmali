@@ -1,6 +1,6 @@
 # Welcome to my github!
 
-I develop mobile and fullstack web applications. I'm always learning.
+I'm a fullstack and mobile application developer, and I'm always learning new things. My skillset includes React, React Native, Flutter, Git, Docker, Nodejs, Typescript, PHP, Go.
 
 ## Connect
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:dev@iugmali.com)
