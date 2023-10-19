@@ -1,6 +1,6 @@
 # Welcome to my github!
 
-### I'm focused on working on fullstack web and mobile applications. I love to learn new technologies.
+I develop mobile and fullstack web applications. I'm always learning.
 
 ## Connect
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:dev@iugmali.com)
